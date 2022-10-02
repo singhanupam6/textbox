@@ -1,0 +1,32 @@
+#container{
+    border: 2px solid red;
+    background-color: rgb(245, 81, 81);
+    width: 600px;
+    height: 250px;
+    margin: auto;
+    margin-top: 170px;
+}
+#box1{
+    color: yellow;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 10px;
+}
+#box2{
+    border: 1px solid grey;
+    background-color:rgb(183, 224, 236) ;
+    font-size: 15px; 
+    color: red;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px;
+}
+#box3{
+    border: 1px solid rgb(203, 223, 29);
+    background-color:rgb(243, 202, 19) ;
+    font-size: 15px; 
+    color: brown;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px;
+}
